@@ -1,0 +1,5 @@
+<xml>
+<Package Name="DependentLibrary.Core" Version="1.0.0" VersionAlias="{DependentLibrary.Core_Version}" />
+<Package Name="DependentLibrary" Version="1.0.0" VersionAlias="{DependentLibrary_Version}" />
+<Package Name="IndependentLibrary" Version="1.0.0" VersionAlias="{IndependentLibrary_Version}" />
+</xml>
